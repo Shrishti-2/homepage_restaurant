@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+   margin: 0px;
+   padding: 0px;
+}
+body
+{  font-family: Poppins,sans-serif;
+   background-color: #FBFBFB;
+}
+.frontsearch
+{   background-image: url("assets/img-bg.png");
+     width:100%;
+     height:400px; 
+     /* before-480px; */
+     background:no repeat;
+}
+nav
+{   height:20px;
+     padding-top:7px;
+}
+nav ul
+{  display:inline;
+}
+#login
+{  color: #ffff;
+   margin:10px 0px 0px 1028px ;
+  list-style: none; 
+  font-weight:medium;
+  font-size:16px; 
+  display:inline;
+}
+#account
+{  list-style: none;
+   border: 2px solid;
+   color:#FFFFFF;
+   font-weight:medium;
+   font-size:16px;
+   padding:3px;
+   margin:-31px 22px 30px 1028px; ;
+   float:right;
+   display:inline;
+}
+.container
+{   margin-left: 50%;
+    width: 110px;
+    height: 147px;
+    padding-bottom: 25px;
+ }  
+ #logo
+ {  width: 90px;
+    height: 90px;
+    background-color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 70px;
+    color: #EB2929;
+    font-weight: 800;
+    padding:3px 15px;
+  }
+ #dropdown
+ {  margin-left: 200px; 
+    width: 520px;
+    height: 60px;
+   display: inline;   
+ }
+select
+{  height: 55px;
+   width: 20%;
+  font-size: 16px;
+   padding-left: 15px;
+}
+.restselect
+{ top: 339px; 
+  left: 578px;
+  width:50%;
+  height: 55px;
+}
+.title 
+{   margin-left: 20%;
+    color:#FFFFFF; 
+}
+h2
+{  padding-left: 50px;
+}
+.Quicksearch 
+{   font-family:'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #192F60;
+    margin-left: 5%;
+ }
+h4 
+{  color:#8C96AB;
+   font-size:18px;
+   font-weight:regular;
+   margin-left: 5%;
+ }
+.card
+{ width: 28%;
+  height: 150px;
+  display: inline-block;
+  margin-left:5%;
+  margin-top: 3%;
+ box-shadow:0px 3px 6px rgb(95, 91, 91); 
+ }
+ .img
+ { width:50%;
+ }
+ .text
+ { width:45%;
+   float:right;
+   margin-left: 5%;
+   margin-top: -39%;
+}
+.heading
+{  font-weight:semibold;
+   font-size:18px;
+   color:#192F60;
+ }
+.subheading
+{  color:#8C96AB;
+   font-weight:regular;
+   font-size:14px;
+ }
+
+ 
+ 
